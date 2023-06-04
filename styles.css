@@ -101,6 +101,6 @@ li{
 }
 @media (max-width: 425px) {
   body{
-    background-color: aqua;
+    background-color: rgb(212, 212, 212);
   }
 }
