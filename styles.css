@@ -99,8 +99,3 @@ li{
     margin-left:250px;
    }
 }
-@media (max-width: 425px) {
-  body{
-    background-color: rgb(212, 212, 212);
-  }
-}
